@@ -1,8 +1,8 @@
 # CNN using Tensorflow (Keras) for Classifing Images in 2 Classes
 
 # Install packages
-pip install tensorflow
-pip install sklearn
+pip install tensorflow  
+pip install sklearn  
 pip install matplotlib
 
 # Run the scripts
