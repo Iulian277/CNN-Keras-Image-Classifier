@@ -5,6 +5,10 @@ pip install tensorflow
 pip install sklearn  
 pip install matplotlib
 
+# Or use the following environment as python interpreter
+
+https://github.com/Iulian277/tf-keras-gpu-env
+
 # Run the scripts
 cd src
 
