@@ -43,3 +43,5 @@ model.fit(x = train_batches,
 # Save the model
 if os.path.isfile('../models/vgg16_dogs_vs_cats_model.h5') is False:
     model.save('../models/vgg16_dogs_vs_cats_model.h5')
+else:
+    print('The model is already saved in the "models" folder')

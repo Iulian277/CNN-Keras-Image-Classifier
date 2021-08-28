@@ -6,8 +6,14 @@ pip install sklearn
 pip install matplotlib
 
 # Run the scripts
-cd src
+    cd src
 
-Run a low-level model: py predict.py
+Run a low-level model:
 
-Run the VGG16 model modified: py VGG16_predict.py
+    py CNN_model.py # train and save the model
+    py predict.py # predict data using the model
+
+Run the VGG16 model modified:
+
+    py VGG16_model.py # train and save the model
+    py VGG16_predict.py # predict data using the model
