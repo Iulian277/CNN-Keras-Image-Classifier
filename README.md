@@ -21,3 +21,7 @@ Run the VGG16 model modified:
 
     py VGG16_model.py # train and save the model
     py VGG16_predict.py # predict data using the model
+
+# Alternatively, you can download the models from here
+
+...
