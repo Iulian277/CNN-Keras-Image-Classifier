@@ -5,6 +5,10 @@ pip install tensorflow
 pip install sklearn  
 pip install matplotlib
 
+# Or use the following environment as python interpreter
+
+...
+
 # Run the scripts
     cd src
 
