@@ -23,5 +23,6 @@ Run the VGG16 model modified:
     py VGG16_predict.py # predict data using the model
 
 # Alternatively, you can download the models from here
+# Place the downloaded models in the 'models' folder
 
 https://mega.nz/folder/nwBjUCTD#YfrgIBOTcefYFFkN_i-afQ
