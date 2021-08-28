@@ -7,7 +7,7 @@
 
 # Or use the following environment as python interpreter
 
-... 
+https://mega.nz/folder/yhgwkb5B#BYcasb_anT1RTSWk_ESuDQ
 
 # Run the scripts
     cd src
@@ -24,4 +24,4 @@ Run the VGG16 model modified:
 
 # Alternatively, you can download the models from here
 
-...
+https://mega.nz/folder/nwBjUCTD#YfrgIBOTcefYFFkN_i-afQ
